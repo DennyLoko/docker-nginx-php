@@ -1,4 +1,7 @@
 # nginx-php
+---
+
+-	[`latest`, `1`, `1.9`, `1.9.7` (*Dockerfile*)](https://github.com/DennyLoko/docker-nginx-php/blob/1e65296f80a8641fc2e3382f33f95acde765d06a/Dockerfile)
 
 This is an slightly modified version of the nginx's official image to include by default the option to parse php files using an external php-fpm daemon.
 
